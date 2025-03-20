@@ -61,6 +61,7 @@ const CalendarApp: React.FC = () => {
       dateClick={handleDateClick}
     />
   );
+  
 };
 
 export default CalendarApp;
