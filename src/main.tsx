@@ -4,6 +4,7 @@ import './index.css'
 import App from './App.tsx'
 import "@fullcalendar/common/main.css";
 import "@fullcalendar/common/main.min.css";
+import './index.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
